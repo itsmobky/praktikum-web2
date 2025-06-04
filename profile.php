@@ -6,7 +6,7 @@
                 <tbody>
                     <tr>
                         <td align="right" width="50%"><strong>NIK / NPM :</strong></td>
-                        <td align="left" width="50%">06131231344 / 2310020078</td>
+                        <td align="left" width="50%">061312313413 / 2310020078</td>
                     </tr>
                     <tr>
                         <td align="right" width="50%"><strong>Fakultas / Program Studio :</strong></td>
